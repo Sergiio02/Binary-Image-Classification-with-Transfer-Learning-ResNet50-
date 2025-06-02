@@ -51,7 +51,7 @@ Este proyecto requiere las siguientes bibliotecas de Python:
 
 - 🎯 Entrenamiento: ~99%
 
-🧪 Validación: ~99%
+- 🧪 Validación: ~99%
 
 🏆 Mejor modelo, generaliza bien, mucha precisión sin sobreajuste 
 
